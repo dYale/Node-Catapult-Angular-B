@@ -12,7 +12,6 @@ A boilerplate starter project that includes Node, Express, and Angular:
 $ git clone https://github.com/dYale/node-catapult-angular my-project
 $ cd my-project
 $ npm install
-$ bower install
 $ npm start
 ```
 

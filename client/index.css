@@ -3,7 +3,7 @@ h1{
 	font-family: sans-serif;
 }
 
-.btn {
+.btn{
   background: #639FDE;
   border-radius: 28px;
   font-family: sans-serif;
@@ -17,7 +17,6 @@ h1{
 .btn:hover{
   background-color: #2380E2;
 }
-
 
 .jumbotron{
 	background-color: #dcdcdc;

@@ -1,7 +1,7 @@
 'use strict';
 
-angular.module('myApp')
-  .controller('MainCtrl', ['$scope', function($scope) {
+
+  module.exports = function($scope) {
   	$scope.welcome = 'Welcome to your App!';
   	$scope.buttonText = 'This is your Button';
-  }]);
+  };
