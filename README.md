@@ -1,4 +1,4 @@
-# Node Catapult - Angular
+# Node Catapult - Angular - B
 
 A boilerplate starter project that includes Node, Express, Browserify, and Angular:
 
