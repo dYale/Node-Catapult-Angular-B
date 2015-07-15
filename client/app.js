@@ -33,7 +33,7 @@ angular.module('myApp', [
       });
   });
 
-//define the app and require the Ctrls via their paths
+//define the application module 
 var app = require('angular').module('myApp');
 
 /*
