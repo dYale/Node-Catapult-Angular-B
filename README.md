@@ -9,7 +9,7 @@ A boilerplate starter project that includes Node, Express, Browserify, and Angul
 ## Getting Started
 
 ```
-$ git clone https://github.com/dYale/node-catapult-angular my-project
+$ git clone https://github.com/dYale/node-catapult-angular-B my-project
 $ cd my-project
 $ npm install
 $ npm start
